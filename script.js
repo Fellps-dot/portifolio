@@ -2,16 +2,13 @@
 const skills = [
   { name: "Node.js", icon: "fa-brands fa-node" },
   { name: "Express", icon: "fa-solid fa-server" },
-  { name: "MongoDB", icon: "fa-solid fa-database" },
+  { name: "MySql", icon: "fa-solid fa-database" },
   { name: "PostgreSQL", icon: "fa-solid fa-database" },
   { name: "REST APIs", icon: "fa-solid fa-cloud" },
-  { name: "Docker", icon: "fa-brands fa-docker" },
+  { name: "Java", icon: "fa-brands fa-docker" },
   { name: "AWS", icon: "fa-brands fa-aws" },
   { name: "JavaScript", icon: "fa-brands fa-js" },
-  { name: "TypeScript", icon: "fa-solid fa-code" },
   { name: "Git", icon: "fa-brands fa-git-alt" },
-  { name: "RabbitMQ", icon: "fa-solid fa-exchange-alt" },
-  { name: "Redis", icon: "fa-solid fa-memory" },
 ];
 
 const projects = [
