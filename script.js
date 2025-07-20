@@ -2,13 +2,13 @@
 const skills = [
   { name: "Node.js", icon: "fa-brands fa-node" },
   { name: "Express", icon: "fa-solid fa-server" },
-  { name: "MySql", icon: "fa-solid fa-database" },
+  { name: "MySQL", icon: "fa-solid fa-database" },
   { name: "PostgreSQL", icon: "fa-solid fa-database" },
   { name: "REST APIs", icon: "fa-solid fa-cloud" },
-  { name: "Java", icon: "fa-brands fa-docker" },
-  { name: "AWS", icon: "fa-brands fa-aws" },
+  { name: "Java", icon: "fa-brands fa-java" },
   { name: "JavaScript", icon: "fa-brands fa-js" },
   { name: "Git", icon: "fa-brands fa-git-alt" },
+  {name: "GitHub", icon: "fa-brands fa-github"},
 ];
 
 const projects = [
