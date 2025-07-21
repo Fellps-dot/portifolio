@@ -1,13 +1,16 @@
 // Dados simulados
 const skills = [
-  { name: "Node.js", icon: "fa-brands fa-node" },
-  { name: "Express", icon: "fa-solid fa-server" },
-  { name: "MySQL", icon: "fa-solid fa-database" },
-  { name: "PostgreSQL", icon: "fa-solid fa-database" },
-  { name: "REST APIs", icon: "fa-solid fa-cloud" },
-  { name: "Java", icon: "fa-brands fa-java" },
-  { name: "JavaScript", icon: "fa-brands fa-js" },
-  { name: "Git", icon: "fa-brands fa-git-alt" },
+  {name: "Node.js", icon: "fa-brands fa-node" },
+  {name: "Express", icon: "fa-solid fa-server" },
+  {name: "JavaScript", icon: "fa-brands fa-js" },
+  {name: "MySQL", icon: "fa-solid fa-database" },
+  {name: "PostgreSQL", icon: "fa-solid fa-database" },
+  {name: "REST APIs", icon: "fa-solid fa-cloud" },
+  {name: "Java", icon: "fa-brands fa-java" },
+  {name: "Spring Boot", icon: "fa-solid fa-leaf"},
+  {name: "Python", icon: "fa-brands fa-python"},
+  {name: "Excel", icon: "fa-solid fa-table"},
+  {name: "Git", icon: "fa-brands fa-git-alt" },
   {name: "GitHub", icon: "fa-brands fa-github"},
 ];
 
